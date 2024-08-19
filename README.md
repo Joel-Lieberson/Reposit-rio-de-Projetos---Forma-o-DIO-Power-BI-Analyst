@@ -1,4 +1,4 @@
-# Repositório de Projetos - Formação DIO Power BI Analyst
+# Repositorio de Projetos - Formacao DIO Power BI Analyst
 
 Este repositório foi criado com o objetivo de armazenar e organizar os projetos desenvolvidos durante a formação **Power BI Analyst** oferecida pela DIO (Digital Innovation One).
 
